@@ -77,7 +77,7 @@ Copie o token e insira na variável mqtt_username no código
 
 Acompanhe os dados na aba Latest Telemetry
 
-(Opcional) Crie dashboards personalizados com gráficos, indicadores e alertas por setor hospitalar
+Vídeo: https://youtu.be/R3EnURlIW44
 
 🧠 Finalidade e Contribuições
 Este projeto foi desenvolvido com foco educacional e demonstrativo, apresentando conceitos de Internet das Coisas (IoT) aplicados à gestão hídrica hospitalar. A proposta visa promover o uso consciente da água, automação e alertas para evitar desperdícios em ambientes críticos como hospitais. Sugestões e melhorias são muito bem-vindas!
